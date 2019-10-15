@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://biecheicee.honglinfeng.top/sitemap.xml
